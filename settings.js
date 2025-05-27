@@ -1,7 +1,7 @@
 /*
-  project_name : jinwoo bot
+  project_name : KxBot
   Version : 2.4.0
-  Owner : Malvin King 
+  Owner : Keinyex 
   Clone if you can😪
 
 
